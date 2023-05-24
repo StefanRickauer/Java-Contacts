@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Chuck</first_name>
+	<last_name>Norris</last_name>
+	<phone_number>555 1234 5678</phone_number>
+	<notes>Approach with caution</notes>
+</contact>
+<contact>
+	<first_name>Linus</first_name>
+	<last_name>Torvalds</last_name>
+	<phone_number>555 4321 9876</phone_number>
+	<notes>Not a fan of C++</notes>
+</contact>
+<contact>
+	<first_name>Ellen</first_name>
+	<last_name>Ripley</last_name>
+	<phone_number>555 2314 8976</phone_number>
+	<notes>Hostile towards Xenomorphs</notes>
+</contact>
+<contact>
+	<first_name>Thomas A.</first_name>
+	<last_name>Anderson</last_name>
+	<phone_number>555 9876 5432</phone_number>
+	<notes>Took the red pill</notes>
+</contact>
+</contacts>
